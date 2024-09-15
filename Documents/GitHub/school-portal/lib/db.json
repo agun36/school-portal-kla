@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Tips for a Successful Academic Year",
+    "content": "As the new academic year begins, here are some tips to help you succeed. Stay organized, manage your time effectively, and don't hesitate to ask for help when needed.",
+    "author": "Jane Smith",
+    "date": "2023-10-05"
+  },
+  {
+    "id": "2",
+    "title": "Welcome to Our Blog",
+    "content": "We are excited to share our latest news and updates with you. Stay tuned for more posts!",
+    "author": "John Doe",
+    "date": "2023-10-01"
+  },
+  {
+    "id": "3",
+    "title": "Upcoming Events",
+    "content": "We have a series of exciting events lined up for this semester. From guest lectures to workshops, there's something for everyone. Check out our events page for more details.",
+    "author": "Emily Johnson",
+    "date": "2023-10-10"
+  }
+]
